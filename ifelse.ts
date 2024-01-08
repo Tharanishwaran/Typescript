@@ -1,3 +1,4 @@
+// if else -- to compare two numbers by if else
 
 let a = 7;
 
